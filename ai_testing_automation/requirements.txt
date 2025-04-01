@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+pandas
+selenium
+openpyxl
+python-dotenv
+langchain
+langchain-google-genai

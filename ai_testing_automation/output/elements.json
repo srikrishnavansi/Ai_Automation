@@ -1,0 +1,343 @@
+{
+    "buttons": [
+        {
+            "text": "\u00d7",
+            "id": "",
+            "class": [
+                "close"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Close",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-secondary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Send message",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-primary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "\u00d7",
+            "id": "",
+            "class": [
+                "close"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Close",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-secondary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Sign up",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-primary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "\u00d7",
+            "id": "",
+            "class": [
+                "close"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Close",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-secondary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Log in",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-primary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "\u00d7",
+            "id": "",
+            "class": [
+                "close"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Close",
+            "id": "",
+            "class": [
+                "btn",
+                "btn-secondary"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "",
+            "id": "",
+            "class": [
+                "navbar-toggler",
+                "navbar-toggler-right"
+            ],
+            "type": "button"
+        },
+        {
+            "text": "Previous",
+            "id": "prev2",
+            "class": [
+                "page-link"
+            ],
+            "type": ""
+        },
+        {
+            "text": "Next",
+            "id": "next2",
+            "class": [
+                "page-link"
+            ],
+            "type": ""
+        }
+    ],
+    "links": [
+        {
+            "text": "PRODUCT STORE",
+            "href": "index.html",
+            "id": "nava",
+            "class": [
+                "navbar-brand"
+            ]
+        },
+        {
+            "text": "Home (current)",
+            "href": "index.html",
+            "id": "",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "Contact",
+            "href": "#",
+            "id": "",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "About us",
+            "href": "#",
+            "id": "",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "Cart",
+            "href": "cart.html",
+            "id": "cartur",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "Log in",
+            "href": "#",
+            "id": "login2",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "Log out",
+            "href": "#",
+            "id": "logout2",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "",
+            "href": "#",
+            "id": "nameofuser",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "Sign up",
+            "href": "#",
+            "id": "signin2",
+            "class": [
+                "nav-link"
+            ]
+        },
+        {
+            "text": "Previous",
+            "href": "#carouselExampleIndicators",
+            "id": "",
+            "class": [
+                "carousel-control-prev"
+            ]
+        },
+        {
+            "text": "Next",
+            "href": "#carouselExampleIndicators",
+            "id": "",
+            "class": [
+                "carousel-control-next"
+            ]
+        },
+        {
+            "text": "CATEGORIES",
+            "href": "",
+            "id": "cat",
+            "class": [
+                "list-group-item"
+            ]
+        },
+        {
+            "text": "Phones",
+            "href": "#",
+            "id": "itemc",
+            "class": [
+                "list-group-item"
+            ]
+        },
+        {
+            "text": "Laptops",
+            "href": "#",
+            "id": "itemc",
+            "class": [
+                "list-group-item"
+            ]
+        },
+        {
+            "text": "Monitors",
+            "href": "#",
+            "id": "itemc",
+            "class": [
+                "list-group-item"
+            ]
+        }
+    ],
+    "inputs": [
+        {
+            "type": "text",
+            "name": "",
+            "id": "recipient-email",
+            "placeholder": ""
+        },
+        {
+            "type": "text",
+            "name": "",
+            "id": "recipient-name",
+            "placeholder": ""
+        },
+        {
+            "type": "text",
+            "name": "",
+            "id": "sign-username",
+            "placeholder": ""
+        },
+        {
+            "type": "password",
+            "name": "",
+            "id": "sign-password",
+            "placeholder": ""
+        },
+        {
+            "type": "text",
+            "name": "",
+            "id": "loginusername",
+            "placeholder": ""
+        },
+        {
+            "type": "password",
+            "name": "",
+            "id": "loginpassword",
+            "placeholder": ""
+        }
+    ],
+    "forms": [
+        {
+            "action": "",
+            "method": "",
+            "id": "",
+            "inputs": [
+                {
+                    "type": "text",
+                    "name": ""
+                },
+                {
+                    "type": "text",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "action": "",
+            "method": "",
+            "id": "",
+            "inputs": [
+                {
+                    "type": "text",
+                    "name": ""
+                },
+                {
+                    "type": "password",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "action": "",
+            "method": "",
+            "id": "",
+            "inputs": [
+                {
+                    "type": "text",
+                    "name": ""
+                },
+                {
+                    "type": "password",
+                    "name": ""
+                }
+            ]
+        },
+        {
+            "action": "",
+            "method": "",
+            "id": "",
+            "inputs": []
+        },
+        {
+            "action": "",
+            "method": "",
+            "id": "frm",
+            "inputs": []
+        }
+    ]
+}
